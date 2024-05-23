@@ -1,0 +1,1 @@
+Only enter assets pages.
